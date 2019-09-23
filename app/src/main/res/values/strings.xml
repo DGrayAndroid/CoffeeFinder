@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoffeeFinder</string>
+    <string name="starbucks_name">Starbucks Coffee</string>
+    <string name="starbucks_address">9235 US Hwy 19, Port Richey, FL 34668</string>
+    <string name="dunkin_name">Dunkin\' Donuts</string>
+    <string name="dunkin_address">7319 Plathe Rd, New Port Richey, FL 34653</string>
+    <string name="oasis_name">Oasis Coffee Spot</string>
+    <string name="oasis_address">9213 Little Rd, New Port Richey, FL 34654</string>
+    <string name="mountaineer_name">Mountaineer Coffee</string>
+    <string name="mountaineer_address">6322 Bank St, New Port Richey, FL 34652</string>
+</resources>
